@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Pota Blog</title>
-    <link>https://www.potawang.cn/</link>
-    <description>Recent content on Pota Blog</description>
+    <title>PaperMod on Pota Blog</title>
+    <link>https://www.potawang.cn/tags/papermod/</link>
+    <description>Recent content in PaperMod on Pota Blog</description>
     <image>
       <url>https://www.potawang.cn/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://www.potawang.cn/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 20 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.potawang.cn/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 20 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.potawang.cn/tags/papermod/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>FAQs</title>
       <link>https://www.potawang.cn/post/hugo_introduce/</link>
@@ -18,17 +18,6 @@
       <guid>https://www.potawang.cn/post/hugo_introduce/</guid>
       <description>Frequently Asked Questions</description>
     </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://www.potawang.cn/about/</link>
-      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
-      
-      <guid>https://www.potawang.cn/about/</guid>
-      <description>Desc Text.</description>
-    </item>
-    
-    
     
   </channel>
 </rss>
