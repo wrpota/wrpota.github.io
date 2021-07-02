@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>PHP on Pota Blog</title>
+    <link>https://www.potawang.cn/tags/php/</link>
+    <description>Recent content in PHP on Pota Blog</description>
+    <image>
+      <url>https://www.potawang.cn/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://www.potawang.cn/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 02 Jul 2021 16:51:10 +0800</lastBuildDate><atom:link href="https://www.potawang.cn/tags/php/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PHP代码规范-初版</title>
+      <link>https://www.potawang.cn/post/php_specification/</link>
+      <pubDate>Fri, 02 Jul 2021 16:51:10 +0800</pubDate>
+      
+      <guid>https://www.potawang.cn/post/php_specification/</guid>
+      <description>HP代码规范-初版</description>
+    </item>
+    
+  </channel>
+</rss>
