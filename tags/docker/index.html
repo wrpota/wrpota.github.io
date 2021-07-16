@@ -7,12 +7,7 @@ Kubernetes control plane is running at https://kubernetes.docker.internal:6443 C
 kubectl proxy 若输出以下内存则进行下一步:
 Starting to serve on 127.0.0.1:8001 访问：
 http://localhost:8001/api/v1/namespaces/kubernetes-dashboard/services/https:kubernetes-dashboard:/proxy/#/login 如下所示 通过下方命令获取Token 登录
-kubectl -n kubernetes-dashboard describe secret $(kubectl -n kubernetes-dashboard get secret | grep admin-user | awk '{print $1}')</p></section><footer class=entry-footer>July 14, 2021&nbsp;·&nbsp;1 min&nbsp;·&nbsp;wrpota</footer><a class=entry-link aria-label="post link to Macos 安装k8s" href=https://www.potawang.cn/post/macos_k8s/></a></article><article class="post-entry tag-entry"><header class=entry-header><h2>使用doker搭建DNS服务</h2></header><section class=entry-content><p>在服务器创建对应配置文件 可自行决定存储位置
-/docker/dnsmasq/dnsmasq.conf
-# 完整配置文件参考以下地址 # http://oss.segetech.com/intra/srv/dnsmasq.conf cache-size=50000 dns-forward-max=1000 # 记录所有DNS查询请求 # log-queries # 不使用本地配置的域名解析器 # no-resolv # 不使用本地hosts no-hosts resolv-file=/etc/dnsmasq.resolv.conf addn-hosts=/etc/dnsmasq.hosts # 配置上游DNS服务器地址，用于解析国内域名 server=114.114.114.114 # 配置国际DNS服务器地址 server=8.8.8.8 /docker/dnsmasq/dnsmasq.hosts
-127.0.0.1 example.com /docker/dnsmasq/dnsmasq.resolv.conf
-nameserver 114.114.114.114 nameserver 223.5.5.5 启动docker容器
-docker run \ --name dnsmasq \ -d \ -p 53:53/udp \ -p 5380:8080 \ -v /docker/dnsmasq/dnsmasq.conf:/etc/dnsmasq.conf \ -v /docker/dnsmasq/dnsmasq.hosts:/etc/dnsmasq.hosts \ -v /docker/dnsmasq/dnsmasq....</p></section><footer class=entry-footer>July 13, 2021&nbsp;·&nbsp;1 min&nbsp;·&nbsp;wrpota</footer><a class=entry-link aria-label="post link to 使用doker搭建DNS服务" href=https://www.potawang.cn/post/docker_dns/></a></article></main><footer class=footer><span>&copy; 2021 <a href=https://www.potawang.cn/>Pota Blog</a></span>
+kubectl -n kubernetes-dashboard describe secret $(kubectl -n kubernetes-dashboard get secret | grep admin-user | awk '{print $1}')</p></section><footer class=entry-footer>July 14, 2021&nbsp;·&nbsp;1 min&nbsp;·&nbsp;wrpota</footer><a class=entry-link aria-label="post link to Macos 安装k8s" href=https://www.potawang.cn/post/macos_k8s/></a></article></main><footer class=footer><span>&copy; 2021 <a href=https://www.potawang.cn/>Pota Blog</a></span>
 <span>Powered by
 <a href=https://gohugo.io/ rel="noopener noreferrer" target=_blank>Hugo</a> &
         <a href=https://git.io/hugopapermod rel=noopener target=_blank>PaperMod</a></span></footer><a href=#top aria-label="go to top" title="Go to Top (Alt + G)"><button class=top-link id=top-link type=button accesskey=g><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6" fill="currentcolor"><path d="M12 6H0l6-6z"/></svg></button></a>

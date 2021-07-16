@@ -20,15 +20,6 @@
     </item>
     
     <item>
-      <title>使用doker搭建DNS服务</title>
-      <link>https://www.potawang.cn/post/docker_dns/</link>
-      <pubDate>Tue, 13 Jul 2021 16:53:46 +0800</pubDate>
-      
-      <guid>https://www.potawang.cn/post/docker_dns/</guid>
-      <description>使用doker搭建DNS服务 实现测试环境切换</description>
-    </item>
-    
-    <item>
       <title>Git教程-初版</title>
       <link>https://www.potawang.cn/post/git/</link>
       <pubDate>Fri, 02 Jul 2021 16:53:46 +0800</pubDate>
