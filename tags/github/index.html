@@ -5,7 +5,7 @@ GitHub 仓库配置 在GitHub头像下拉框选择Setting > Developer Settings >
 选择Generate new token 在上方填入名字，并按勾选 repo 和 admin:repo_hook 下的所有选项 点击 Generate token 生成token，并复制保存好该token 在private repo 中选择 Setting > secrets > New repository secret
 NAME填入ACTION_PERSONAL_ACCESS_TOKEN内容填入上面获取的token Private Repo 配置 在private repo根目录新建嵌套的两个文件夹.github/workflows
 在workflows里新建一个后缀为.yml的配置文件，名字自取。 写进去以下配置内容：
-name: github pages # 名字自取 on: push: branches: - main #当main分支触发push事件时执行当前任务 jobs: release: runs-on: ubuntu-18....</p></section><footer class=entry-footer>July 16, 2021&nbsp;·&nbsp;1 分钟&nbsp;·&nbsp;wrpota</footer><a class=entry-link aria-label="post link to 使用GitHub Action自动发布Hugo博客" href=https://www.potawang.cn/post/githubaction%E5%8F%91%E5%B8%83/></a></article></main><footer class=footer><span>&copy; 2021 <a href=https://www.potawang.cn/>Pota Blog</a></span>
+name: github pages # 名字自取 on: push: branches: - main #当main分支触发push事件时执行当前任务 jobs: release: runs-on: ubuntu-18....</p></section><footer class=entry-footer>July 16, 2021&nbsp;·&nbsp;1 分钟&nbsp;·&nbsp;wrpota</footer><a class=entry-link aria-label="post link to 使用GitHub Action自动发布Hugo博客" href=https://www.potawang.cn/post/hugo_release_by_github/></a></article></main><footer class=footer><span>&copy; 2021 <a href=https://www.potawang.cn/>Pota Blog</a></span>
 <span>Powered by
 <a href=https://gohugo.io/ rel="noopener noreferrer" target=_blank>Hugo</a> &
         <a href=https://git.io/hugopapermod rel=noopener target=_blank>PaperMod</a></span>
