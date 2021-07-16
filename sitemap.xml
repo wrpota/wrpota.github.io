@@ -2,6 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.potawang.cn/tags/action/</loc>
+    <lastmod>2021-07-16T17:19:05+08:00</lastmod>
+  </url><url>
+    <loc>https://www.potawang.cn/tags/github/</loc>
+    <lastmod>2021-07-16T17:19:05+08:00</lastmod>
+  </url><url>
+    <loc>https://www.potawang.cn/tags/hugo/</loc>
+    <lastmod>2021-07-16T17:19:05+08:00</lastmod>
+  </url><url>
+    <loc>https://www.potawang.cn/post/</loc>
+    <lastmod>2021-07-16T17:19:05+08:00</lastmod>
+  </url><url>
+    <loc>https://www.potawang.cn/</loc>
+    <lastmod>2021-07-16T17:19:05+08:00</lastmod>
+  </url><url>
+    <loc>https://www.potawang.cn/tags/</loc>
+    <lastmod>2021-07-16T17:19:05+08:00</lastmod>
+  </url><url>
+    <loc>https://www.potawang.cn/post/githubaction%E5%8F%91%E5%B8%83/</loc>
+    <lastmod>2021-07-16T17:19:05+08:00</lastmod>
+  </url><url>
+    <loc>https://www.potawang.cn/tags/%E8%87%AA%E5%8A%A8%E5%8F%91%E5%B8%83/</loc>
+    <lastmod>2021-07-16T17:19:05+08:00</lastmod>
+  </url><url>
     <loc>https://www.potawang.cn/categories/</loc>
     <lastmod>2021-07-14T15:12:44+08:00</lastmod>
   </url><url>
@@ -12,15 +36,6 @@
     <lastmod>2021-07-14T15:12:44+08:00</lastmod>
   </url><url>
     <loc>https://www.potawang.cn/post/macos_k8s/</loc>
-    <lastmod>2021-07-14T15:12:44+08:00</lastmod>
-  </url><url>
-    <loc>https://www.potawang.cn/post/</loc>
-    <lastmod>2021-07-14T15:12:44+08:00</lastmod>
-  </url><url>
-    <loc>https://www.potawang.cn/</loc>
-    <lastmod>2021-07-14T15:12:44+08:00</lastmod>
-  </url><url>
-    <loc>https://www.potawang.cn/tags/</loc>
     <lastmod>2021-07-14T15:12:44+08:00</lastmod>
   </url><url>
     <loc>https://www.potawang.cn/tags/git/</loc>

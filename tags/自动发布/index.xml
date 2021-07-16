@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>自动发布 on Pota Blog</title>
+    <link>https://www.potawang.cn/tags/%E8%87%AA%E5%8A%A8%E5%8F%91%E5%B8%83/</link>
+    <description>Recent content in 自动发布 on Pota Blog</description>
+    <image>
+      <url>https://www.potawang.cn/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://www.potawang.cn/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 16 Jul 2021 17:19:05 +0800</lastBuildDate><atom:link href="https://www.potawang.cn/tags/%E8%87%AA%E5%8A%A8%E5%8F%91%E5%B8%83/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>使用GitHub Action自动发布Hugo博客</title>
+      <link>https://www.potawang.cn/post/githubaction%E5%8F%91%E5%B8%83/</link>
+      <pubDate>Fri, 16 Jul 2021 17:19:05 +0800</pubDate>
+      
+      <guid>https://www.potawang.cn/post/githubaction%E5%8F%91%E5%B8%83/</guid>
+      <description>利用GitHub action,自动发布hugo文章,并隐藏原始仓库地址</description>
+    </item>
+    
+  </channel>
+</rss>
