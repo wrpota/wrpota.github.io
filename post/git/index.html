@@ -17,7 +17,7 @@
 <link rel=mask-icon href=https://www.potawang.cn/%3Clink%20/%20abs%20url%3E>
 <meta name=theme-color content="#2e2e33">
 <meta name=msapplication-TileColor content="#2e2e33">
-<meta name=generator content="Hugo 0.87.0">
+<meta name=generator content="Hugo 0.88.1">
 <meta name=baidu-site-verification content="code-0ekyOXOMm0">
 <script>var _hmt=_hmt||[];(function(){var a=document.createElement("script"),b;a.src="https://hm.baidu.com/hm.js?dcdb96e6d8ef04e6ae19d0a74a1063c6",b=document.getElementsByTagName("script")[0],b.parentNode.insertBefore(a,b)})()</script>
 <script>(function(){var a=document.createElement('script'),b;a.src='//push.zhanzhang.baidu.com/push.js',b=document.getElementsByTagName("script")[0],b.parentNode.insertBefore(a,b)})()</script>
@@ -573,14 +573,14 @@ Changes not staged <span style=color:#66d9ef>for</span> commit:
   <span style=color:#f92672>(</span>use <span style=color:#e6db74>&#34;git restore &lt;file&gt;...&#34;</span> to discard changes in working directory<span style=color:#f92672>)</span>
 	modified:   a
 </code></pre></div><p><strong><code>apply</code></strong> 选项只尝试应用储藏的工作——储藏的内容仍然在栈上。要移除它，你可以运行 <code>git stash drop</code>，加上你希望移除的储藏的名字：</p>
-<pre><code>$ git stash list
+<pre tabindex=0><code>$ git stash list
 stash@{0}: WIP on master: 46eb136 这个commit写错了 现在修复了
 $ git stash drop stash@{0}
 Dropped stash@{0} (2def785d0c921b679077086faefc40804212e732)
 </code></pre><p>你也可以运行 <code>git stash pop</code> 来重新应用储藏，同时立刻将其从堆栈中移走。</p>
 <h3 id=从储藏中创建分支>从储藏中创建分支<a hidden class=anchor aria-hidden=true href=#从储藏中创建分支>#</a></h3>
 <p>如果你储藏了一些工作，暂时不去理会，然后继续在你储藏工作的分支上工作，你在重新应用工作时可能会碰到一些问题。如果尝试应用的变更是针对一个你那之后修改过的文件，你会碰到一个归并冲突并且必须去化解它。如果你想用更方便的方法来重新检验你储藏的变更，你可以运行 <code>git stash branch</code>，这会创建一个新的分支，检出你储藏工作时的所处的提交，重新应用你的工作，如果成功，将会丢弃储藏。</p>
-<pre><code>$ git stash branch testchanges
+<pre tabindex=0><code>$ git stash branch testchanges
 Switched to a new branch 'testchanges'
 On branch testchanges
 Changes to be committed:
