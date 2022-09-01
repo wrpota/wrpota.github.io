@@ -9,7 +9,16 @@
       <link>https://www.potawang.cn/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 16 Jul 2021 17:19:05 +0800</lastBuildDate><atom:link href="https://www.potawang.cn/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 01 Sep 2022 15:52:11 +0800</lastBuildDate><atom:link href="https://www.potawang.cn/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>同步gitea仓库到github</title>
+      <link>https://www.potawang.cn/post/gitea_sync_to_github/</link>
+      <pubDate>Thu, 01 Sep 2022 15:52:11 +0800</pubDate>
+      
+      <guid>https://www.potawang.cn/post/gitea_sync_to_github/</guid>
+      <description>使用Drone CI将gitea仓库同步到github</description>
+    </item>
+    
     <item>
       <title>使用GitHub Action自动发布Hugo博客</title>
       <link>https://www.potawang.cn/post/hugo_release_by_github/</link>
@@ -29,21 +38,21 @@
     </item>
     
     <item>
-      <title>Git教程-初版</title>
-      <link>https://www.potawang.cn/post/git/</link>
-      <pubDate>Fri, 02 Jul 2021 16:53:46 +0800</pubDate>
-      
-      <guid>https://www.potawang.cn/post/git/</guid>
-      <description>Git教程-初版</description>
-    </item>
-    
-    <item>
       <title>Git规范-初版</title>
       <link>https://www.potawang.cn/post/git%E8%A7%84%E8%8C%83/</link>
       <pubDate>Fri, 02 Jul 2021 16:53:46 +0800</pubDate>
       
       <guid>https://www.potawang.cn/post/git%E8%A7%84%E8%8C%83/</guid>
       <description>Git规范-初版</description>
+    </item>
+    
+    <item>
+      <title>Git教程-初版</title>
+      <link>https://www.potawang.cn/post/git/</link>
+      <pubDate>Fri, 02 Jul 2021 16:53:46 +0800</pubDate>
+      
+      <guid>https://www.potawang.cn/post/git/</guid>
+      <description>Git教程-初版</description>
     </item>
     
     <item>

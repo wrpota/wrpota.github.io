@@ -2,22 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.potawang.cn/tags/drone/</loc>
+    <lastmod>2022-09-01T15:52:11+08:00</lastmod>
+  </url><url>
+    <loc>https://www.potawang.cn/tags/gitea/</loc>
+    <lastmod>2022-09-01T15:52:11+08:00</lastmod>
+  </url><url>
+    <loc>https://www.potawang.cn/tags/github/</loc>
+    <lastmod>2022-09-01T15:52:11+08:00</lastmod>
+  </url><url>
+    <loc>https://www.potawang.cn/post/</loc>
+    <lastmod>2022-09-01T15:52:11+08:00</lastmod>
+  </url><url>
+    <loc>https://www.potawang.cn/</loc>
+    <lastmod>2022-09-01T15:52:11+08:00</lastmod>
+  </url><url>
+    <loc>https://www.potawang.cn/tags/</loc>
+    <lastmod>2022-09-01T15:52:11+08:00</lastmod>
+  </url><url>
+    <loc>https://www.potawang.cn/post/gitea_sync_to_github/</loc>
+    <lastmod>2022-09-01T15:52:11+08:00</lastmod>
+  </url><url>
     <loc>https://www.potawang.cn/tags/action/</loc>
     <lastmod>2021-07-16T17:19:05+08:00</lastmod>
   </url><url>
-    <loc>https://www.potawang.cn/tags/github/</loc>
-    <lastmod>2021-07-16T17:19:05+08:00</lastmod>
-  </url><url>
     <loc>https://www.potawang.cn/tags/hugo/</loc>
-    <lastmod>2021-07-16T17:19:05+08:00</lastmod>
-  </url><url>
-    <loc>https://www.potawang.cn/post/</loc>
-    <lastmod>2021-07-16T17:19:05+08:00</lastmod>
-  </url><url>
-    <loc>https://www.potawang.cn/</loc>
-    <lastmod>2021-07-16T17:19:05+08:00</lastmod>
-  </url><url>
-    <loc>https://www.potawang.cn/tags/</loc>
     <lastmod>2021-07-16T17:19:05+08:00</lastmod>
   </url><url>
     <loc>https://www.potawang.cn/post/hugo_release_by_github/</loc>
@@ -41,10 +50,10 @@
     <loc>https://www.potawang.cn/tags/git/</loc>
     <lastmod>2021-07-02T16:53:46+08:00</lastmod>
   </url><url>
-    <loc>https://www.potawang.cn/post/git/</loc>
+    <loc>https://www.potawang.cn/post/git%E8%A7%84%E8%8C%83/</loc>
     <lastmod>2021-07-02T16:53:46+08:00</lastmod>
   </url><url>
-    <loc>https://www.potawang.cn/post/git%E8%A7%84%E8%8C%83/</loc>
+    <loc>https://www.potawang.cn/post/git/</loc>
     <lastmod>2021-07-02T16:53:46+08:00</lastmod>
   </url><url>
     <loc>https://www.potawang.cn/categories/%E6%96%87%E6%A1%A3/</loc>
@@ -59,6 +68,8 @@
     <loc>https://www.potawang.cn/about/</loc>
   </url><url>
     <loc>https://www.potawang.cn/archives/</loc>
+  </url><url>
+    <loc>https://www.potawang.cn/categories/ci/cd/</loc>
   </url><url>
     <loc>https://www.potawang.cn/search/</loc>
   </url><url>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>drone on Pota Blog</title>
+    <link>https://www.potawang.cn/tags/drone/</link>
+    <description>Recent content in drone on Pota Blog</description>
+    <image>
+      <url>https://www.potawang.cn/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://www.potawang.cn/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 01 Sep 2022 15:52:11 +0800</lastBuildDate><atom:link href="https://www.potawang.cn/tags/drone/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>同步gitea仓库到github</title>
+      <link>https://www.potawang.cn/post/gitea_sync_to_github/</link>
+      <pubDate>Thu, 01 Sep 2022 15:52:11 +0800</pubDate>
+      
+      <guid>https://www.potawang.cn/post/gitea_sync_to_github/</guid>
+      <description>使用Drone CI将gitea仓库同步到github</description>
+    </item>
+    
+  </channel>
+</rss>
