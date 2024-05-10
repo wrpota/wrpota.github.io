@@ -2,6 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.potawang.cn/post/nginx_vue/</loc>
+    <lastmod>2024-05-10T17:22:23+08:00</lastmod>
+  </url><url>
+    <loc>https://www.potawang.cn/post/</loc>
+    <lastmod>2024-05-10T17:22:23+08:00</lastmod>
+  </url><url>
+    <loc>https://www.potawang.cn/</loc>
+    <lastmod>2024-05-10T17:22:23+08:00</lastmod>
+  </url><url>
+    <loc>https://www.potawang.cn/categories/</loc>
+    <lastmod>2022-09-01T15:52:11+08:00</lastmod>
+  </url><url>
+    <loc>https://www.potawang.cn/categories/ci/cd/</loc>
+    <lastmod>2022-09-01T15:52:11+08:00</lastmod>
+  </url><url>
     <loc>https://www.potawang.cn/tags/drone/</loc>
     <lastmod>2022-09-01T15:52:11+08:00</lastmod>
   </url><url>
@@ -9,12 +24,6 @@
     <lastmod>2022-09-01T15:52:11+08:00</lastmod>
   </url><url>
     <loc>https://www.potawang.cn/tags/github/</loc>
-    <lastmod>2022-09-01T15:52:11+08:00</lastmod>
-  </url><url>
-    <loc>https://www.potawang.cn/post/</loc>
-    <lastmod>2022-09-01T15:52:11+08:00</lastmod>
-  </url><url>
-    <loc>https://www.potawang.cn/</loc>
     <lastmod>2022-09-01T15:52:11+08:00</lastmod>
   </url><url>
     <loc>https://www.potawang.cn/tags/</loc>
@@ -34,9 +43,6 @@
   </url><url>
     <loc>https://www.potawang.cn/tags/%E8%87%AA%E5%8A%A8%E5%8F%91%E5%B8%83/</loc>
     <lastmod>2021-07-16T17:19:05+08:00</lastmod>
-  </url><url>
-    <loc>https://www.potawang.cn/categories/</loc>
-    <lastmod>2021-07-14T15:12:44+08:00</lastmod>
   </url><url>
     <loc>https://www.potawang.cn/tags/docker/</loc>
     <lastmod>2021-07-14T15:12:44+08:00</lastmod>
@@ -68,8 +74,6 @@
     <loc>https://www.potawang.cn/about/</loc>
   </url><url>
     <loc>https://www.potawang.cn/archives/</loc>
-  </url><url>
-    <loc>https://www.potawang.cn/categories/ci/cd/</loc>
   </url><url>
     <loc>https://www.potawang.cn/search/</loc>
   </url><url>

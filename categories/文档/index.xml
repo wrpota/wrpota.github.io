@@ -5,37 +5,34 @@
     <link>https://www.potawang.cn/categories/%E6%96%87%E6%A1%A3/</link>
     <description>Recent content in 文档 on Pota Blog</description>
     <image>
+      <title>Pota Blog</title>
       <url>https://www.potawang.cn/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://www.potawang.cn/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 02 Jul 2021 16:53:46 +0800</lastBuildDate><atom:link href="https://www.potawang.cn/categories/%E6%96%87%E6%A1%A3/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- 0.125.7</generator>
+    <language>zh</language>
+    <lastBuildDate>Fri, 02 Jul 2021 16:53:46 +0800</lastBuildDate>
+    <atom:link href="https://www.potawang.cn/categories/%E6%96%87%E6%A1%A3/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Git规范-初版</title>
       <link>https://www.potawang.cn/post/git%E8%A7%84%E8%8C%83/</link>
       <pubDate>Fri, 02 Jul 2021 16:53:46 +0800</pubDate>
-      
       <guid>https://www.potawang.cn/post/git%E8%A7%84%E8%8C%83/</guid>
       <description>Git规范-初版</description>
     </item>
-    
     <item>
       <title>Git教程-初版</title>
       <link>https://www.potawang.cn/post/git/</link>
       <pubDate>Fri, 02 Jul 2021 16:53:46 +0800</pubDate>
-      
       <guid>https://www.potawang.cn/post/git/</guid>
       <description>Git教程-初版</description>
     </item>
-    
     <item>
       <title>PHP代码规范-初版</title>
       <link>https://www.potawang.cn/post/php_specification/</link>
       <pubDate>Fri, 02 Jul 2021 16:51:10 +0800</pubDate>
-      
       <guid>https://www.potawang.cn/post/php_specification/</guid>
       <description>HP代码规范-初版</description>
     </item>
-    
   </channel>
 </rss>

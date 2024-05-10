@@ -1,23 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>action on Pota Blog</title>
+    <title>Action on Pota Blog</title>
     <link>https://www.potawang.cn/tags/action/</link>
-    <description>Recent content in action on Pota Blog</description>
+    <description>Recent content in Action on Pota Blog</description>
     <image>
+      <title>Pota Blog</title>
       <url>https://www.potawang.cn/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://www.potawang.cn/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 16 Jul 2021 17:19:05 +0800</lastBuildDate><atom:link href="https://www.potawang.cn/tags/action/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- 0.125.7</generator>
+    <language>zh</language>
+    <lastBuildDate>Fri, 16 Jul 2021 17:19:05 +0800</lastBuildDate>
+    <atom:link href="https://www.potawang.cn/tags/action/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>使用GitHub Action自动发布Hugo博客</title>
       <link>https://www.potawang.cn/post/hugo_release_by_github/</link>
       <pubDate>Fri, 16 Jul 2021 17:19:05 +0800</pubDate>
-      
       <guid>https://www.potawang.cn/post/hugo_release_by_github/</guid>
       <description>利用GitHub action,自动发布hugo文章,并隐藏原始仓库地址</description>
     </item>
-    
   </channel>
 </rss>

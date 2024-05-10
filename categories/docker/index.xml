@@ -5,19 +5,20 @@
     <link>https://www.potawang.cn/categories/docker/</link>
     <description>Recent content in Docker on Pota Blog</description>
     <image>
+      <title>Pota Blog</title>
       <url>https://www.potawang.cn/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://www.potawang.cn/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 14 Jul 2021 15:12:44 +0800</lastBuildDate><atom:link href="https://www.potawang.cn/categories/docker/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- 0.125.7</generator>
+    <language>zh</language>
+    <lastBuildDate>Wed, 14 Jul 2021 15:12:44 +0800</lastBuildDate>
+    <atom:link href="https://www.potawang.cn/categories/docker/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Macos 安装k8s</title>
       <link>https://www.potawang.cn/post/macos_k8s/</link>
       <pubDate>Wed, 14 Jul 2021 15:12:44 +0800</pubDate>
-      
       <guid>https://www.potawang.cn/post/macos_k8s/</guid>
       <description>Macos_k8s</description>
     </item>
-    
   </channel>
 </rss>

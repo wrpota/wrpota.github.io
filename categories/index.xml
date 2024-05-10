@@ -5,37 +5,34 @@
     <link>https://www.potawang.cn/categories/</link>
     <description>Recent content in Categories on Pota Blog</description>
     <image>
+      <title>Pota Blog</title>
       <url>https://www.potawang.cn/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://www.potawang.cn/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 14 Jul 2021 15:12:44 +0800</lastBuildDate><atom:link href="https://www.potawang.cn/categories/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Docker</title>
-      <link>https://www.potawang.cn/categories/docker/</link>
-      <pubDate>Wed, 14 Jul 2021 15:12:44 +0800</pubDate>
-      
-      <guid>https://www.potawang.cn/categories/docker/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>文档</title>
-      <link>https://www.potawang.cn/categories/%E6%96%87%E6%A1%A3/</link>
-      <pubDate>Fri, 02 Jul 2021 16:53:46 +0800</pubDate>
-      
-      <guid>https://www.potawang.cn/categories/%E6%96%87%E6%A1%A3/</guid>
-      <description></description>
-    </item>
-    
+    <generator>Hugo -- 0.125.7</generator>
+    <language>zh</language>
+    <lastBuildDate>Thu, 01 Sep 2022 15:52:11 +0800</lastBuildDate>
+    <atom:link href="https://www.potawang.cn/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>CI/CD</title>
       <link>https://www.potawang.cn/categories/ci/cd/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://www.potawang.cn/categories/ci/cd/</guid>
       <description></description>
     </item>
-    
+    <item>
+      <title>Docker</title>
+      <link>https://www.potawang.cn/categories/docker/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.potawang.cn/categories/docker/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>文档</title>
+      <link>https://www.potawang.cn/categories/%E6%96%87%E6%A1%A3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.potawang.cn/categories/%E6%96%87%E6%A1%A3/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
