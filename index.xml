@@ -11,8 +11,15 @@
     </image>
     <generator>Hugo -- 0.125.7</generator>
     <language>zh</language>
-    <lastBuildDate>Fri, 10 May 2024 17:22:23 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 13 May 2024 17:40:30 +0800</lastBuildDate>
     <atom:link href="https://www.potawang.cn/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>使用Certbot申请域名证书</title>
+      <link>https://www.potawang.cn/post/certbot_apply_ssl/</link>
+      <pubDate>Mon, 13 May 2024 17:40:30 +0800</pubDate>
+      <guid>https://www.potawang.cn/post/certbot_apply_ssl/</guid>
+      <description>Certbot_apply_ssl</description>
+    </item>
     <item>
       <title>Nginx配置php项目vue前后端分离</title>
       <link>https://www.potawang.cn/post/nginx_vue/</link>
