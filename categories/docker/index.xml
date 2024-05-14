@@ -20,5 +20,12 @@
       <guid>https://www.potawang.cn/post/macos_k8s/</guid>
       <description>Macos_k8s</description>
     </item>
+    <item>
+      <title>使用doker搭建DNS服务</title>
+      <link>https://www.potawang.cn/post/docker_dns/</link>
+      <pubDate>Tue, 13 Jul 2021 16:53:46 +0800</pubDate>
+      <guid>https://www.potawang.cn/post/docker_dns/</guid>
+      <description>使用doker搭建DNS服务 实现测试环境切换</description>
+    </item>
   </channel>
 </rss>

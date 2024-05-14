@@ -35,6 +35,13 @@
       <description>使用Drone CI将gitea仓库同步到github</description>
     </item>
     <item>
+      <title>K3s 安装</title>
+      <link>https://www.potawang.cn/post/k3s/</link>
+      <pubDate>Mon, 23 Aug 2021 15:28:33 +0800</pubDate>
+      <guid>https://www.potawang.cn/post/k3s/</guid>
+      <description>K3s</description>
+    </item>
+    <item>
       <title>使用GitHub Action自动发布Hugo博客</title>
       <link>https://www.potawang.cn/post/hugo_release_by_github/</link>
       <pubDate>Fri, 16 Jul 2021 17:19:05 +0800</pubDate>
@@ -47,6 +54,13 @@
       <pubDate>Wed, 14 Jul 2021 15:12:44 +0800</pubDate>
       <guid>https://www.potawang.cn/post/macos_k8s/</guid>
       <description>Macos_k8s</description>
+    </item>
+    <item>
+      <title>使用doker搭建DNS服务</title>
+      <link>https://www.potawang.cn/post/docker_dns/</link>
+      <pubDate>Tue, 13 Jul 2021 16:53:46 +0800</pubDate>
+      <guid>https://www.potawang.cn/post/docker_dns/</guid>
+      <description>使用doker搭建DNS服务 实现测试环境切换</description>
     </item>
     <item>
       <title>Git规范-初版</title>

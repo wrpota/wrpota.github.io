@@ -35,6 +35,9 @@
     <loc>https://www.potawang.cn/post/gitea_sync_to_github/</loc>
     <lastmod>2022-09-01T15:52:11+08:00</lastmod>
   </url><url>
+    <loc>https://www.potawang.cn/post/k3s/</loc>
+    <lastmod>2021-08-23T15:28:33+08:00</lastmod>
+  </url><url>
     <loc>https://www.potawang.cn/tags/action/</loc>
     <lastmod>2021-07-16T17:19:05+08:00</lastmod>
   </url><url>
@@ -55,6 +58,9 @@
   </url><url>
     <loc>https://www.potawang.cn/post/macos_k8s/</loc>
     <lastmod>2021-07-14T15:12:44+08:00</lastmod>
+  </url><url>
+    <loc>https://www.potawang.cn/post/docker_dns/</loc>
+    <lastmod>2021-07-13T16:53:46+08:00</lastmod>
   </url><url>
     <loc>https://www.potawang.cn/tags/git/</loc>
     <lastmod>2021-07-02T16:53:46+08:00</lastmod>
